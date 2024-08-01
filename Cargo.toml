@@ -1,0 +1,12 @@
+[package]
+name = "rk_pin"
+version = "0.1.1"
+edition = "2021"
+authors = ["qinyun575@gmail.com"]
+description = "A tool for converting Rockchip GPIO pin names to pin numbers and vice versa."
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/TrekMax/rk_pin"
+keywords = ["rockchip", "gpio", "converter", "rust"]
+
+[dependencies]
